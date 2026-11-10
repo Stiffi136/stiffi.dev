@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mp-pong",
+    "category": "Multiplayer",
+    "title": "MP-PONG",
+    "description": "Multiplayer-Pong im Browser: Zwei oder mehr Spieler treten in einer Polygon-Arena gegeneinander an.",
+    "tags": ["TypeScript", "Multiplayer"],
+    "image": "assets/mp-pong.png",
+    "imageAlt": "Startbildschirm von MP-PONG",
+    "github": "https://github.com/Stiffi136/mp-pong",
+    "play": "https://stiffi136.github.io/mp-pong/"
+  },
+  {
+    "id": "web-ware",
+    "category": "Minispiele",
+    "title": "WebWare",
+    "description": "Ein schnelles Multiplayer-Browserspiel mit chaotischen Minispielen rund um typische Internet-Aufgaben.",
+    "tags": ["React", "TypeScript", "WebSockets"],
+    "image": "assets/web-ware.png",
+    "imageAlt": "Startbildschirm von WebWare",
+    "github": "https://github.com/Stiffi136/web-ware",
+    "play": "https://stiffi136.github.io/web-ware/"
+  },
+  {
+    "id": "fast-park",
+    "category": "Parken",
+    "title": "Fast Park",
+    "description": "Ein Multiplayer-Parkspiel: Wer findet und erreicht am schnellsten einen der knappen freien Parkplätze?",
+    "tags": ["TypeScript", "Multiplayer"],
+    "image": "assets/fast-park.png",
+    "imageAlt": "Startbildschirm von Fast Park",
+    "github": "https://github.com/Stiffi136/fast-park",
+    "play": "https://stiffi136.github.io/fast-park/"
+  },
+  {
+    "id": "super-flasch-bros-2",
+    "category": "Plattformer",
+    "title": "Super Flasch Bros. 2",
+    "description": "Ein Browser-Plattformer mit einer Flasche, die springt, rutscht und sich an Wänden und Decken festhält – allein oder mit Freunden.",
+    "tags": ["TypeScript", "Multiplayer"],
+    "image": "assets/super-flasch-bros-2.png",
+    "imageAlt": "Startseite von Super Flasch Bros. 2",
+    "github": "https://github.com/Stiffi136/super-flasch-bros-2",
+    "play": "https://stiffi136.github.io/super-flasch-bros-2/"
+  },
+  {
+    "id": "solitaire-game",
+    "category": "Kartenspiel",
+    "title": "Solitaire 3D",
+    "description": "Klondike Solitaire in 3D direkt im Browser – allein oder gemeinsam mit Freunden im kooperativen Multiplayer.",
+    "tags": ["Three.js", "TypeScript", "Multiplayer"],
+    "image": "assets/solitaire-game.png",
+    "imageAlt": "Spielansicht von Solitaire 3D",
+    "github": "https://github.com/Stiffi136/solitaire-game",
+    "play": "https://stiffi136.github.io/solitaire-game/"
+  },
+  {
+    "id": "construction-survivors-game",
+    "category": "Survivors-like",
+    "title": "Construction Site Survivors",
+    "description": "Ein Survivors-like auf einer endlosen Baustelle bei Nacht: Du bewegst dich, deine Werkzeuge greifen automatisch an. Überstehe die 15-Minuten-Schicht und besiege den Endboss.",
+    "tags": ["Three.js", "TypeScript", "Vite"],
+    "image": "assets/construction-survivors.png",
+    "imageAlt": "Startmenü von Construction Site Survivors",
+    "github": "https://github.com/Stiffi136/construction-survivors-game",
+    "play": "https://stiffi136.github.io/construction-survivors-game/"
+  }
+]
